@@ -1,0 +1,22 @@
+"C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - NMake Makefiles" D:\Murdoch\ICT397\tempProject
+-- The C compiler identification is MSVC 19.23.28107.0
+-- The CXX compiler identification is MSVC 19.23.28107.0
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x86/cl.exe
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x86/cl.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x86/cl.exe
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x86/cl.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Find root dir: 
+-- Found OpenGL: opengl32   
+-- glut libraries: D:/Murdoch/ICT397/tempProject/src/../lib/release/freeglut.libD:/Murdoch/ICT397/tempProject/src/../lib/debug/freeglutd.lib
+-- Find root dir: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Murdoch/ICT397/tempProject/bin

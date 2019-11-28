@@ -1,0 +1,5 @@
+D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/CMakeFiles/temp3dgame.dir
+D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/CMakeFiles/edit_cache.dir
+D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/CMakeFiles/rebuild_cache.dir

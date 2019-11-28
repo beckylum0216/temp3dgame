@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "temp3dgame.exe (src\\bin\\temp3dgame.exe)",
+      "name": "temp3dgame.exe (src\\bin\\temp3dgame.exe)"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tempProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\cmake-modules\;CMake Files\cmake-modules\assimp\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="temp3dgame">
+				<Option output="D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/bin/temp3dgame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Murdoch/ICT397/tempProject/src/../include"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/Makefile&quot;  VERBOSE=1 temp3dgame"/>
+					<CompileFile command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="temp3dgame/fast">
+				<Option output="D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/bin/temp3dgame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Murdoch/ICT397/tempProject/src/../include"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/Makefile&quot;  VERBOSE=1 temp3dgame/fast"/>
+					<CompileFile command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe -f &quot;D:/Murdoch/ICT397/tempProject/cmake-build-debug-mingw/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/FBXLoader.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/FBXLoader.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Object.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Object.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Quaternion.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Quaternion.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Vector2.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Vector2.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Vector3.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Vector3.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/main.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/sample.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/sample.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/cmake-modules/assimp/Findassimp.cmake">
+			<Option virtualFolder="CMake Files\cmake-modules\assimp\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

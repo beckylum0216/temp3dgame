@@ -1,0 +1,1 @@
+-lopengl32 -lglu32 ../../src/../lib/release/freeglut.lib ../../src/../lib/debug/freeglutd.lib ../../src/../lib/assimp-msvc-debug/assimp-vc141-mtd.lib ../../src/../lib/assimp-msvc-release/assimp-vc141-mt.lib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

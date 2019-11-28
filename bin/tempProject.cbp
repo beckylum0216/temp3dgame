@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tempProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\cmake-modules\;CMake Files\cmake-modules\assimp\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Murdoch/ICT397/tempProject/bin"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Murdoch/ICT397/tempProject/bin"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Murdoch/ICT397/tempProject/bin"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="temp3dgame">
+				<Option output="D:/Murdoch/ICT397/tempProject/bin/src/bin/temp3dgame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/Murdoch/ICT397/tempProject/src/../include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7.2\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\src\Makefile VERBOSE=1 temp3dgame"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="temp3dgame/fast">
+				<Option output="D:/Murdoch/ICT397/tempProject/bin/src/bin/temp3dgame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/Murdoch/ICT397/tempProject/src/../include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7.2\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\src\Makefile VERBOSE=1 temp3dgame/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Murdoch\ICT397\tempProject\bin\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/FBXLoader.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/FBXLoader.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Object.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Object.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Quaternion.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Quaternion.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Vector2.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Vector2.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Vector3.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/Vector3.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/main.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/sample.cpp">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/sample.h">
+			<Option target="temp3dgame"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="D:/Murdoch/ICT397/tempProject/cmake-modules/assimp/Findassimp.cmake">
+			<Option virtualFolder="CMake Files\cmake-modules\assimp\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

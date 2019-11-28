@@ -1,0 +1,6 @@
+# ninja log v5
+37	625	596610577	src/CMakeFiles/temp3dgame.dir/FBXLoader.cpp.obj	a0adced5b9946b4
+109	653	596610577	src/CMakeFiles/temp3dgame.dir/Quaternion.cpp.obj	147ae7c31ee9ad88
+57	664	596610577	src/CMakeFiles/temp3dgame.dir/Vector2.cpp.obj	9ad553cb40bc5ae3
+74	761	596610577	src/CMakeFiles/temp3dgame.dir/Vector3.cpp.obj	8819c72e87e8c910
+20	1329	596610578	src/CMakeFiles/temp3dgame.dir/sample.cpp.obj	6f32318c9f332f2f
