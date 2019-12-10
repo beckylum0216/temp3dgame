@@ -4,3 +4,12 @@
 57	664	596610577	src/CMakeFiles/temp3dgame.dir/Vector2.cpp.obj	9ad553cb40bc5ae3
 74	761	596610577	src/CMakeFiles/temp3dgame.dir/Vector3.cpp.obj	8819c72e87e8c910
 20	1329	596610578	src/CMakeFiles/temp3dgame.dir/sample.cpp.obj	6f32318c9f332f2f
+71	1862	597592176	build.ninja	4f099e2c1ebe4363
+218	6356	597592182	src/CMakeFiles/temp3dgame.dir/Vector2.cpp.obj	9ad553cb40bc5ae3
+186	6376	597592182	src/CMakeFiles/temp3dgame.dir/Vector3.cpp.obj	8819c72e87e8c910
+282	6390	597592182	src/CMakeFiles/temp3dgame.dir/Quaternion.cpp.obj	147ae7c31ee9ad88
+311	6493	597592183	src/CMakeFiles/temp3dgame.dir/Texture.cpp.obj	512a1d26e6a75540
+4	6758	597592183	src/CMakeFiles/temp3dgame.dir/sample.cpp.obj	6f32318c9f332f2f
+102	6813	597592183	src/CMakeFiles/temp3dgame.dir/main.cpp.obj	7c5ee5cb1cab596e
+250	6972	597592183	src/CMakeFiles/temp3dgame.dir/Object.cpp.obj	b11a3a0b76200382
+6973	12966	597592189	src/bin/temp3dgame.exe	dd31e615a06cb8e
